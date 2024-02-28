@@ -99,3 +99,8 @@ if _name_ == "_main_":
     agent.perform_action("nothing")
     agent.print_status()
 ```
+<h3>OUTPUT</h3>
+
+![Screenshot 2024-02-22 194221](https://github.com/Darkwebnew/19AI405ExpNo1/assets/143114486/2a81cdda-0474-461d-a0e1-b15e2978a354)
+
+<h3>RESULT</h3>
